@@ -4,20 +4,18 @@
 
 # Hi there, I'm Malcom Wachira 👋
 
-I am a 4th-year student at Strathmore University, currently pursuing a Bachelor of Informatics and Computer Science degree. I am passionate about building clean, efficient software solutions and exploring the intersection between software and hardware, ranging from responsive full-stack web platforms to embedded systems and IoT.
+I am a software developer and an Informatics and Computer Science student. I am passionate about building clean, efficient software solutions and exploring the intersection between software and hardware, ranging from responsive full-stack web platforms to embedded systems and IoT. I am also passionate about bukding solutions that solve real-world problems.
 
 - 🔭 **Current Focus:** Developing an IoT-based vermiculture data collection system for environmental monitoring, alongside building full-stack fleet management solutions and working on anomaly detection for logistics management systems.
-- 🌱 **Learning & Exploration:** Diving deeper into embedded systems architectures, EV powertrain engineering with Formula Student, fine-tuning my NestJS knowledge.
-- ⚡ **Core Interests:** Full-Stack Web Ecosystems, Internet of Things (IoT), Cybersecurity, and Cloud Infrastructure
+- 🌱 **Learning & Exploration:** Diving deeper into embedded systems architectures, fine-tuning my NestJS knowledge, Cloud infrastructure and DevOps, and Data Analytics.
+- ⚡ **Core Interests:** Full-Stack Software Engineering, Internet of Things (IoT), Cybersecurity, Cloud Infrastructure, AgriTech and Smart Farming,and  Data Engineering and Analytics
 
 ---
 
 ## Technical Ecosystem
 
-*Tip: You can customize or add categories below to match your unique skillset. You can find more badge styles and icons at [Shields.io](https://shields.io/).*
-
 ### Core Competencies & Core Stack
-<img src="https://img.shields.io/badge/[React]-3776AB?style=for-the-badge" /> <img src="https://img.shields.io/badge/[NestJS]-F7DF1E?style=for-the-badge&logoColor=black" /> <img src="https://img.shields.io/badge/[Vue3]-20232A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/React-3776AB?style=for-the-badge" /> <img src="https://img.shields.io/badge/NestJS-F7DF1E?style=for-the-badge&logoColor=black" /> <img src="https://img.shields.io/badge/Vue3-20232A?style=for-the-badge" />
 
 ### Tooling, Infrastructure & Ecosystem
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
@@ -25,7 +23,6 @@ I am a 4th-year student at Strathmore University, currently pursuing a Bachelor 
 ---
 
 ## GitHub Stats
-*Note: These data visualization modules automatically update in real time based on your active version control contributions.*
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MalcomWachira&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
